@@ -1,0 +1,9 @@
+Package: com.eraysp909.hidedockx
+Name: HideDockX
+Depends: mobilesubstrate, firmware (>=13)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: EraySP909 <erayunsurorluu@gmail.com>
+Author: EraySP909 <erayunsurorluu@gmail.com>
+Section: Tweaks
